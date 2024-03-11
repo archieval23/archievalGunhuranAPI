@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sGiL8kzQ9zeg0nwZcSmJQkrj9QPSgh6BTkswBepXu5w=",
+  "Source": "FlexisourceIT-API",
+  "BasePath": "_content/FlexisourceIT-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FlexisourceIT-API\\wwwroot",
+      "Source": "FlexisourceIT-API",
+      "ContentRoot": "C:\\Users\\HP GAMING\\source\\repos\\CodingTest\\FlexisourceIT-API\\FlexisourceIT-API\\wwwroot\\",
+      "BasePath": "_content/FlexisourceIT-API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP GAMING\\source\\repos\\CodingTest\\FlexisourceIT-API\\FlexisourceIT-API\\wwwroot\\js\\customjs.js",
+      "SourceId": "FlexisourceIT-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP GAMING\\source\\repos\\CodingTest\\FlexisourceIT-API\\FlexisourceIT-API\\wwwroot\\",
+      "BasePath": "_content/FlexisourceIT-API",
+      "RelativePath": "js/customjs.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\customjs.js"
+    }
+  ]
+}

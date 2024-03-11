@@ -1,0 +1,11 @@
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\bin\Debug\net8.0\FlexisourceIT-Common.deps.json
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\bin\Debug\net8.0\FlexisourceIT-Common.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\bin\Debug\net8.0\FlexisourceIT-Common.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\FlexisourceIT-Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\FlexisourceIT-Common.AssemblyInfoInputs.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\FlexisourceIT-Common.AssemblyInfo.cs
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\FlexisourceIT-Common.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\FlexisourceIT-Common.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\refint\FlexisourceIT-Common.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\FlexisourceIT-Common.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Common\obj\Debug\net8.0\ref\FlexisourceIT-Common.dll

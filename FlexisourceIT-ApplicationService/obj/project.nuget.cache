@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nVmDHRjkqQHwjUiP1sxvQBAuJkX/s7VkO+E/9bGY3Tiglo2e/5talD2B7v7q33WV8iKz7WTT9ABsn0VSjkXhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP GAMING\\source\\repos\\CodingTest\\FlexisourceIT-API\\FlexisourceIT-ApplicationService\\FlexisourceIT-ApplicationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP GAMING\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\HP GAMING\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP GAMING\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP GAMING\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP GAMING\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

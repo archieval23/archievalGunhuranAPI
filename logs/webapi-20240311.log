@@ -1,0 +1,1317 @@
+2024-03-11 04:18:11.046 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 04:18:11.082 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 04:18:11.119 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 04:18:11.119 +08:00  INF  Hosting environment: Development
+2024-03-11 04:18:11.120 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 04:18:11.304 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:18:11.472 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 174.956ms
+2024-03-11 04:18:11.496 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:18:11.502 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 5.4904ms
+2024-03-11 04:18:12.561 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:18:12.630 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 68.6019ms
+2024-03-11 04:18:12.673 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:18:12.792 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 118.7055ms
+2024-03-11 04:18:58.600 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:18:58.621 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 21.604ms
+2024-03-11 04:18:58.628 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:18:58.629 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:18:58.630 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.5876ms
+2024-03-11 04:18:58.654 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.8519ms
+2024-03-11 04:18:58.922 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:18:58.927 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.95ms
+2024-03-11 04:19:16.995 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:19:17.003 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 8.4309ms
+2024-03-11 04:19:17.018 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:19:17.019 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:19:17.019 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.479ms
+2024-03-11 04:19:17.032 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.8088ms
+2024-03-11 04:19:17.335 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:19:17.338 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.5954ms
+2024-03-11 04:19:20.977 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 04:19:20.982 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:19:20.998 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 04:19:21.069 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 04:19:21.071 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 04:19:22.511 +08:00  INF  Received HTTP response headers after 1438.0867ms - 200
+2024-03-11 04:19:22.512 +08:00  INF  End processing HTTP request after 1445.253ms - 200
+2024-03-11 04:19:22.534 +08:00  WRN  Success
+2024-03-11 04:19:22.562 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 04:19:22.576 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1575.479ms
+2024-03-11 04:19:22.577 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:19:22.577 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1600.6371ms
+2024-03-11 04:45:35.204 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 04:45:35.243 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 04:45:35.313 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 04:45:35.313 +08:00  INF  Hosting environment: Development
+2024-03-11 04:45:35.313 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 04:45:35.791 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:45:36.000 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 219.0588ms
+2024-03-11 04:45:37.378 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:45:37.378 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:45:37.383 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 5.0358ms
+2024-03-11 04:45:37.439 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.9314ms
+2024-03-11 04:45:37.474 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:45:37.600 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 125.5828ms
+2024-03-11 04:45:48.737 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 04:45:48.746 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:45:48.764 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 04:45:48.844 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 04:45:48.846 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 04:45:50.251 +08:00  INF  Received HTTP response headers after 1402.6695ms - 200
+2024-03-11 04:45:50.252 +08:00  INF  End processing HTTP request after 1410.4768ms - 200
+2024-03-11 04:45:50.270 +08:00  WRN  Success
+2024-03-11 04:45:50.291 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 04:45:50.301 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1534.7366ms
+2024-03-11 04:45:50.302 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:45:50.303 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1566.7876ms
+2024-03-11 04:45:54.672 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:45:54.679 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 6.4002ms
+2024-03-11 04:45:54.694 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:45:54.694 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:45:54.698 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.8987ms
+2024-03-11 04:45:54.719 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.2466ms
+2024-03-11 04:45:55.465 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:45:55.467 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.0215ms
+2024-03-11 04:46:05.720 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:46:05.724 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 4.2085ms
+2024-03-11 04:46:05.748 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:46:05.749 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:46:05.749 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.8524ms
+2024-03-11 04:46:05.766 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.5869ms
+2024-03-11 04:46:06.013 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:46:06.015 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.3099ms
+2024-03-11 04:46:20.595 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 04:46:20.596 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:46:20.597 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 04:46:20.598 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 04:46:20.598 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 04:46:22.009 +08:00  INF  Received HTTP response headers after 1411.6532ms - 200
+2024-03-11 04:46:22.010 +08:00  INF  End processing HTTP request after 1412.3086ms - 200
+2024-03-11 04:46:22.013 +08:00  WRN  Success
+2024-03-11 04:46:22.014 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 04:46:22.019 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1422.1818ms
+2024-03-11 04:46:22.019 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:46:22.019 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1424.5887ms
+2024-03-11 04:56:55.113 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 04:56:55.135 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 04:56:55.174 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 04:56:55.174 +08:00  INF  Hosting environment: Development
+2024-03-11 04:56:55.174 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 04:56:55.979 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:56:56.206 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 232.9126ms
+2024-03-11 04:56:57.251 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:56:57.260 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:56:57.262 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 10.7734ms
+2024-03-11 04:56:57.311 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.7963ms
+2024-03-11 04:56:57.377 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:56:57.517 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 140.4899ms
+2024-03-11 04:57:03.910 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 04:57:03.916 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:57:03.934 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 04:57:04.009 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 04:57:04.022 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 84.5169ms
+2024-03-11 04:57:04.022 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:57:04.022 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 112.8634ms
+2024-03-11 04:57:26.295 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 04:57:26.297 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:57:26.298 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 04:57:26.298 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 04:57:26.299 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 0.7881ms
+2024-03-11 04:57:26.299 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:57:26.299 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 8.3854ms
+2024-03-11 04:59:27.872 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 04:59:27.895 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 22.956ms
+2024-03-11 04:59:27.902 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 04:59:27.903 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.2883ms
+2024-03-11 04:59:28.635 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 04:59:28.655 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.6035ms
+2024-03-11 04:59:28.755 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 04:59:28.757 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.5671ms
+2024-03-11 04:59:37.708 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 04:59:37.709 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:59:37.709 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 04:59:37.711 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 04:59:37.711 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1.6387ms
+2024-03-11 04:59:37.711 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 04:59:37.711 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 2.4588ms
+2024-03-11 05:03:31.367 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 05:03:31.392 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 05:03:31.430 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 05:03:31.430 +08:00  INF  Hosting environment: Development
+2024-03-11 05:03:31.430 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 05:03:32.316 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 05:03:32.510 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 199.8897ms
+2024-03-11 05:03:32.530 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 05:03:32.535 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 5.1759ms
+2024-03-11 05:03:33.470 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 05:03:33.515 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.2876ms
+2024-03-11 05:03:33.552 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 05:03:33.655 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 103.3674ms
+2024-03-11 05:03:44.621 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 05:03:44.627 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 05:03:44.644 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 05:03:44.720 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 05:03:44.732 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 84.5589ms
+2024-03-11 05:03:44.732 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 05:03:44.732 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 111.4765ms
+2024-03-11 13:29:50.382 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 13:29:50.404 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 13:29:50.437 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 13:29:50.438 +08:00  INF  Hosting environment: Development
+2024-03-11 13:29:50.438 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 13:29:50.857 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 13:29:51.037 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 181.168ms
+2024-03-11 13:29:51.179 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 13:29:51.184 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 5.6061ms
+2024-03-11 13:29:52.145 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 13:29:52.316 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 171.346ms
+2024-03-11 13:29:52.344 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 13:29:52.443 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.3472ms
+2024-03-11 13:29:57.764 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:29:57.770 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:29:57.786 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:29:57.860 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:29:57.870 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 80.7913ms
+2024-03-11 13:29:57.870 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:29:57.870 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 105.4785ms
+2024-03-11 13:30:58.551 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:30:58.553 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:30:58.553 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:30:58.562 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:30:58.562 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 8.6362ms
+2024-03-11 13:30:58.562 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:30:58.562 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 11.5955ms
+2024-03-11 13:30:59.546 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/favicon.ico - null null
+2024-03-11 13:30:59.547 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/favicon.ico - 404 0 null 0.6186ms
+2024-03-11 13:30:59.548 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/favicon.ico, Response status code: 404
+2024-03-11 13:31:49.091 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:31:49.092 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:31:49.092 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:31:49.093 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:31:49.125 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 33.3022ms
+2024-03-11 13:31:49.125 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:31:49.125 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 33.9949ms
+2024-03-11 13:31:51.682 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:31:51.683 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:31:51.683 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:31:51.683 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:31:51.683 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 0.428ms
+2024-03-11 13:31:51.684 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:31:51.684 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 1.4371ms
+2024-03-11 13:31:58.522 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:31:58.522 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:31:58.522 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:31:58.523 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:31:58.523 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 0.9361ms
+2024-03-11 13:31:58.523 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:31:58.523 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 1.8267ms
+2024-03-11 13:33:01.441 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:33:01.441 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:33:01.441 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:33:01.447 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 13:33:01.448 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 13:33:02.994 +08:00  INF  Received HTTP response headers after 1539.1379ms - 200
+2024-03-11 13:33:02.996 +08:00  INF  End processing HTTP request after 1549.9385ms - 200
+2024-03-11 13:33:03.030 +08:00  WRN  Success
+2024-03-11 13:33:03.049 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 13:33:03.053 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1611.3559ms
+2024-03-11 13:33:03.053 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:33:03.053 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1612.3362ms
+2024-03-11 13:33:39.474 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:33:39.474 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:33:39.474 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:33:39.474 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:33:39.475 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 0.3052ms
+2024-03-11 13:33:39.475 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:33:39.475 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 0.9328ms
+2024-03-11 13:34:00.338 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:34:00.338 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:34:00.339 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:34:00.341 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:34:00.341 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 2.5359ms
+2024-03-11 13:34:00.341 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:34:00.341 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 3.3308ms
+2024-03-11 13:34:12.913 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:34:12.914 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:34:12.914 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:34:12.914 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 13:34:12.914 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 13:34:14.032 +08:00  INF  Received HTTP response headers after 1117.3409ms - 200
+2024-03-11 13:34:14.032 +08:00  INF  End processing HTTP request after 1117.7498ms - 200
+2024-03-11 13:34:14.036 +08:00  WRN  Success
+2024-03-11 13:34:14.039 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 13:34:14.040 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1126.101ms
+2024-03-11 13:34:14.040 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:34:14.040 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1126.9902ms
+2024-03-11 13:34:23.454 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 13:34:23.458 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 3.3911ms
+2024-03-11 13:34:23.476 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 13:34:23.477 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 0.8042ms
+2024-03-11 13:34:24.177 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 13:34:24.181 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.538ms
+2024-03-11 13:34:24.307 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 13:34:24.310 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.0904ms
+2024-03-11 13:34:31.094 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:34:31.094 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:34:31.094 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:34:31.094 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:34:31.094 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 0.2702ms
+2024-03-11 13:34:31.094 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:34:31.095 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 0.9454ms
+2024-03-11 13:52:47.218 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 13:52:47.222 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 3.6228ms
+2024-03-11 13:52:47.240 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 13:52:47.242 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.5636ms
+2024-03-11 13:52:47.987 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 13:52:47.992 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.2008ms
+2024-03-11 13:52:48.084 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 13:52:48.087 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.5995ms
+2024-03-11 13:52:53.134 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 13:52:53.135 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:52:53.135 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 13:52:53.135 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 13:52:53.135 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 0.3969ms
+2024-03-11 13:52:53.135 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 13:52:53.135 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 1.1029ms
+2024-03-11 14:00:20.969 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 14:00:21.007 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 14:00:21.076 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 14:00:21.076 +08:00  INF  Hosting environment: Development
+2024-03-11 14:00:21.076 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 14:00:21.138 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 14:00:21.340 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 205.6647ms
+2024-03-11 14:00:21.371 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 14:00:21.380 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 9.1616ms
+2024-03-11 14:00:21.382 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 14:00:21.624 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 14:00:21.640 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 16.0123ms
+2024-03-11 14:00:21.663 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 14:00:21.664 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 14:00:21.665 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 0.9681ms
+2024-03-11 14:00:21.665 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 14:00:21.672 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 8.7295ms
+2024-03-11 14:00:23.769 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 14:00:23.874 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.9307ms
+2024-03-11 14:00:23.929 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 14:00:24.097 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 167.628ms
+2024-03-11 14:00:24.380 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 14:00:24.381 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.6205ms
+2024-03-11 14:00:24.395 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 14:00:24.417 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.4546ms
+2024-03-11 14:00:24.513 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 14:00:24.517 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.218ms
+2024-03-11 14:00:28.401 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 14:00:28.403 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 14:00:28.421 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 14:00:28.502 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 14:00:28.513 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 88.6166ms
+2024-03-11 14:00:28.513 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 14:00:28.513 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 112.7925ms
+2024-03-11 14:00:53.087 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 14:00:53.088 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 14:00:53.089 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 14:00:53.093 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 14:00:53.093 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1.7898ms
+2024-03-11 14:00:53.093 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 14:00:53.093 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 7.1845ms
+2024-03-11 20:47:33.789 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 20:47:33.815 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 20:47:33.853 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 20:47:33.854 +08:00  INF  Hosting environment: Development
+2024-03-11 20:47:33.854 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 20:47:34.514 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 20:47:34.780 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 270.7816ms
+2024-03-11 20:47:34.798 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 20:47:34.798 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 20:47:34.817 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 20.0659ms
+2024-03-11 20:47:34.818 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 20.1856ms
+2024-03-11 20:47:34.821 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 20:47:35.908 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 20:47:35.960 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.5429ms
+2024-03-11 20:47:35.992 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 20:47:36.158 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 166.7618ms
+2024-03-11 20:48:26.908 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 20:48:26.918 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 20:48:26.934 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 20:48:27.012 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 20:48:27.024 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 86.5133ms
+2024-03-11 20:48:27.025 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 20:48:27.025 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 null application/problem+json; charset=utf-8 121.404ms
+2024-03-11 20:52:19.703 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 20:52:19.759 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 20:52:19.836 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 20:52:19.837 +08:00  INF  Hosting environment: Development
+2024-03-11 20:52:19.837 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 20:52:20.171 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 20:52:20.400 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 235.9185ms
+2024-03-11 20:52:20.428 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 20:52:20.428 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 20:52:20.435 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 8.2205ms
+2024-03-11 20:52:20.435 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 8.1917ms
+2024-03-11 20:52:20.438 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 20:52:21.583 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 20:52:21.625 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.7627ms
+2024-03-11 20:52:21.663 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 20:52:21.764 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 101.6341ms
+2024-03-11 20:52:31.911 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 20:52:31.918 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 20:52:31.923 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 20:52:31.959 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 47.8083ms
+2024-03-11 20:53:46.992 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 49
+2024-03-11 20:53:46.999 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:53:47.015 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 20:53:47.211 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 20:53:47.223 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 204.3388ms
+2024-03-11 20:53:47.223 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:53:47.223 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 401 null application/problem+json; charset=utf-8 231.2796ms
+2024-03-11 20:53:55.886 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 20:53:55.886 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:53:55.886 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 20:53:55.994 +08:00  INF  Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-03-11 20:53:55.994 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 108.0217ms
+2024-03-11 20:53:55.994 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:53:55.994 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 400 null text/plain; charset=utf-8 109.1725ms
+2024-03-11 20:56:55.815 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 20:56:55.830 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 15.1945ms
+2024-03-11 20:56:55.840 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 20:56:55.841 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 20:56:55.842 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.3494ms
+2024-03-11 20:56:55.843 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.0295ms
+2024-03-11 20:56:55.843 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 20:56:55.849 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 20:56:55.866 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.4071ms
+2024-03-11 20:56:56.733 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 20:56:56.741 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.3357ms
+2024-03-11 20:57:15.729 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 49
+2024-03-11 20:57:15.730 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:57:15.732 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 20:57:15.734 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 20:57:15.737 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 4.0836ms
+2024-03-11 20:57:15.737 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:57:15.737 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 401 null application/problem+json; charset=utf-8 7.8472ms
+2024-03-11 20:57:28.693 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 20:57:28.694 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:57:28.694 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 20:57:28.727 +08:00  INF  Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-03-11 20:57:28.727 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 33.1608ms
+2024-03-11 20:57:28.727 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:57:28.727 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 400 null text/plain; charset=utf-8 34.656ms
+2024-03-11 20:58:19.464 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 20:58:19.481 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 17.0588ms
+2024-03-11 20:58:19.490 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 20:58:19.490 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 20:58:19.491 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.2236ms
+2024-03-11 20:58:19.492 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.0575ms
+2024-03-11 20:58:19.492 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 20:58:19.496 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 20:58:19.510 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.0181ms
+2024-03-11 20:58:20.390 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 20:58:20.396 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.8939ms
+2024-03-11 20:58:32.936 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 20:58:32.936 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:58:32.938 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 20:58:32.948 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 20:58:32.948 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 10.1471ms
+2024-03-11 20:58:32.948 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 20:58:32.949 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 12.9901ms
+2024-03-11 20:58:58.810 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 20:58:58.819 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 20:58:58.820 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 20:58:58.820 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 10.5546ms
+2024-03-11 20:59:10.823 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 20:59:10.825 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 20:59:10.827 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 20:59:10.827 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 4.5366ms
+2024-03-11 20:59:16.906 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 20:59:16.911 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 5.0751ms
+2024-03-11 20:59:16.930 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 20:59:16.930 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 20:59:16.931 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 1.5485ms
+2024-03-11 20:59:16.931 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 20:59:16.931 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.6508ms
+2024-03-11 20:59:17.629 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 20:59:17.641 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.3406ms
+2024-03-11 20:59:17.745 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 20:59:17.750 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.12ms
+2024-03-11 20:59:31.622 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 20:59:31.623 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 20:59:31.623 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 20:59:31.624 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 1.9916ms
+2024-03-11 21:02:02.357 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:02:02.366 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 9.0754ms
+2024-03-11 21:02:02.380 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:02:02.380 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:02:02.381 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.2944ms
+2024-03-11 21:02:02.386 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 6.2073ms
+2024-03-11 21:02:02.386 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:02:03.152 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:02:03.162 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.3767ms
+2024-03-11 21:02:03.366 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:02:03.372 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.9743ms
+2024-03-11 21:02:05.583 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:02:05.587 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 3.4635ms
+2024-03-11 21:02:05.604 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:02:05.604 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:02:05.605 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 0.965ms
+2024-03-11 21:02:05.605 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 0.6692ms
+2024-03-11 21:02:05.605 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:02:05.826 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:02:05.835 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.1189ms
+2024-03-11 21:02:05.912 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:02:05.914 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.3612ms
+2024-03-11 21:02:09.390 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:02:09.390 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:02:09.391 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 21:02:09.392 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 2.9466ms
+2024-03-11 21:02:31.938 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:02:31.939 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:02:31.940 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:02:31.941 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:02:31.941 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 1.0266ms
+2024-03-11 21:02:31.941 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:02:31.941 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 3.3134ms
+2024-03-11 21:03:01.350 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:03:01.351 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:03:01.357 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 21:03:01.357 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 6.6356ms
+2024-03-11 21:05:48.733 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:05:48.746 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 13.7904ms
+2024-03-11 21:05:48.756 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:05:48.756 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:05:48.758 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.7585ms
+2024-03-11 21:05:48.758 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.0667ms
+2024-03-11 21:05:48.758 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:05:48.767 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:05:48.775 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.4057ms
+2024-03-11 21:05:49.598 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:05:49.602 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.6967ms
+2024-03-11 21:05:53.351 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:05:53.354 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 3.1243ms
+2024-03-11 21:05:53.367 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:05:53.367 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:05:53.367 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:05:53.368 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 0.941ms
+2024-03-11 21:05:53.368 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:05:53.368 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.122ms
+2024-03-11 21:05:53.383 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 16.2443ms
+2024-03-11 21:05:53.665 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:05:53.667 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.5649ms
+2024-03-11 21:05:59.516 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:05:59.517 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:05:59.518 +08:00  ERR  An unhandled exception has occurred while executing the request.System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 21:05:59.519 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 500 null text/plain; charset=utf-8 2.5357ms
+2024-03-11 21:07:16.128 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:07:16.138 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 11.0241ms
+2024-03-11 21:07:16.151 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:07:16.151 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:07:16.151 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:07:16.152 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.1979ms
+2024-03-11 21:07:16.154 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.7725ms
+2024-03-11 21:07:16.154 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:07:16.166 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.1604ms
+2024-03-11 21:07:16.553 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:07:16.557 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.5447ms
+2024-03-11 21:07:17.652 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:07:17.656 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 4.1204ms
+2024-03-11 21:07:17.675 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:07:17.675 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:07:17.675 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:07:17.676 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 0.8726ms
+2024-03-11 21:07:17.676 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 0.8417ms
+2024-03-11 21:07:17.676 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:07:17.686 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 11.3768ms
+2024-03-11 21:07:18.008 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:07:18.010 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 1.8758ms
+2024-03-11 21:07:31.716 +08:00  INF  User profile is available. Using 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-11 21:07:31.767 +08:00  INF  Creating key {2a27c771-6795-4bf8-b92f-066716c55116} with creation date 2024-03-11 13:07:31Z, activation date 2024-03-11 13:07:31Z, and expiration date 2024-06-09 13:07:31Z.
+2024-03-11 21:07:31.785 +08:00  INF  Writing data to file 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys\key-2a27c771-6795-4bf8-b92f-066716c55116.xml'.
+2024-03-11 21:07:31.957 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 21:07:31.958 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 21:07:31.992 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 21:07:31.993 +08:00  INF  Hosting environment: Development
+2024-03-11 21:07:31.993 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 21:07:32.630 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:07:32.837 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 212.1571ms
+2024-03-11 21:07:32.897 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:07:32.998 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 101.5933ms
+2024-03-11 21:07:33.000 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:07:34.098 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:07:34.105 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:07:34.105 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 7.4925ms
+2024-03-11 21:07:34.151 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.925ms
+2024-03-11 21:07:34.192 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:07:34.295 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 102.9438ms
+2024-03-11 21:07:41.390 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:07:41.397 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:07:41.400 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:07:41.400 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 11.2082ms
+2024-03-11 21:08:17.932 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 48
+2024-03-11 21:08:17.939 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:08:17.956 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:08:17.982 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 21:08:17.993 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 33.4864ms
+2024-03-11 21:08:17.993 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:08:17.994 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 401 null application/problem+json; charset=utf-8 61.8411ms
+2024-03-11 21:08:24.192 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:08:24.192 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:08:24.193 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:08:24.217 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:08:24.218 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 25.0488ms
+2024-03-11 21:08:24.218 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:08:24.218 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 26.2761ms
+2024-03-11 21:08:36.052 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:08:36.088 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:08:36.089 +08:00  INF  Bearer was not authenticated. Failure message: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+2024-03-11 21:08:36.090 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:08:36.091 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:08:36.091 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 38.8786ms
+2024-03-11 21:11:43.741 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:11:43.763 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 22.4109ms
+2024-03-11 21:11:43.769 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:11:43.769 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:11:43.770 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.8784ms
+2024-03-11 21:11:43.771 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 3.1822ms
+2024-03-11 21:11:43.775 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:11:43.780 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:11:43.802 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.1633ms
+2024-03-11 21:11:44.775 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:11:44.782 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.0376ms
+2024-03-11 21:11:51.489 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:11:51.490 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:11:51.491 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:11:51.491 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 2.3271ms
+2024-03-11 21:11:57.332 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:11:57.340 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 7.3824ms
+2024-03-11 21:11:57.354 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:11:57.354 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:11:57.355 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.1795ms
+2024-03-11 21:11:57.355 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 1.1331ms
+2024-03-11 21:11:57.355 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:11:57.585 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:11:57.598 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.6314ms
+2024-03-11 21:11:57.665 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:11:57.669 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.5421ms
+2024-03-11 21:12:04.209 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:12:04.209 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:12:04.210 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:12:04.210 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 1.0659ms
+2024-03-11 21:12:24.054 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:12:24.062 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:12:24.066 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:12:24.067 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:12:24.067 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 1.3963ms
+2024-03-11 21:12:24.067 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:12:24.068 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 13.4872ms
+2024-03-11 21:12:42.721 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:12:42.722 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:12:42.722 +08:00  INF  Bearer was not authenticated. Failure message: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+2024-03-11 21:12:42.722 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:12:42.722 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:12:42.723 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 2.201ms
+2024-03-11 21:25:03.856 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:25:03.871 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 14.3965ms
+2024-03-11 21:25:03.882 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:25:03.882 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:25:03.883 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.4359ms
+2024-03-11 21:25:03.888 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 6.4755ms
+2024-03-11 21:25:03.888 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:25:04.670 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:25:04.688 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.976ms
+2024-03-11 21:25:04.876 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:25:04.880 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.2521ms
+2024-03-11 21:25:20.168 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:25:20.168 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:25:20.170 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:25:20.172 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:25:20.172 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 1.7114ms
+2024-03-11 21:25:20.172 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:25:20.172 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 4.0764ms
+2024-03-11 21:25:36.360 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:25:36.362 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:25:36.362 +08:00  INF  Bearer was not authenticated. Failure message: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+2024-03-11 21:25:36.362 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:25:36.362 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:25:36.363 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 2.3185ms
+2024-03-11 21:26:30.233 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:26:30.249 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 16.3834ms
+2024-03-11 21:26:30.267 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:26:30.267 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:26:30.268 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 0.898ms
+2024-03-11 21:26:30.268 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.3384ms
+2024-03-11 21:26:30.268 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:26:30.963 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:26:30.970 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.8903ms
+2024-03-11 21:26:31.135 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:26:31.138 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.1867ms
+2024-03-11 21:26:40.971 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:26:40.971 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:26:40.971 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:26:40.972 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:26:40.972 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 0.7001ms
+2024-03-11 21:26:40.972 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:26:40.972 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 1.367ms
+2024-03-11 21:26:57.495 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:26:57.496 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:26:57.496 +08:00  INF  Bearer was not authenticated. Failure message: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'h0hEROGVMhfYMTYAI0dTbEXA9n5j107_HL_NN5E0sV0'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+2024-03-11 21:26:57.496 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:26:57.496 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:26:57.496 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 1.6008ms
+2024-03-11 21:31:12.530 +08:00  INF  User profile is available. Using 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-11 21:31:12.930 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 21:31:12.930 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 21:31:12.971 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 21:31:12.971 +08:00  INF  Hosting environment: Development
+2024-03-11 21:31:12.971 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 21:31:13.214 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:31:13.419 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:31:13.443 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 22.3787ms
+2024-03-11 21:31:13.443 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 233.5687ms
+2024-03-11 21:31:13.464 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:31:13.571 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 107.2851ms
+2024-03-11 21:31:13.573 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:31:13.574 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:31:13.575 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.3783ms
+2024-03-11 21:31:13.576 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:31:14.369 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:31:14.374 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:31:14.374 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 6.0118ms
+2024-03-11 21:31:14.417 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.1115ms
+2024-03-11 21:31:14.525 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:31:14.645 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 120.5599ms
+2024-03-11 21:31:14.652 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:31:14.653 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.3631ms
+2024-03-11 21:31:14.666 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:31:14.697 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.2372ms
+2024-03-11 21:31:14.762 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:31:14.767 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.5571ms
+2024-03-11 21:31:33.183 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:31:33.187 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:31:33.205 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:31:33.284 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:31:33.287 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 79.27ms
+2024-03-11 21:31:33.287 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:31:33.288 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 105.1767ms
+2024-03-11 21:31:56.693 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:31:56.722 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10214: Audience validation failed. Audiences: 'http://localhost:51398'. Did not match: validationParameters.ValidAudience: 'your_audience' or validationParameters.ValidAudiences: 'null'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:31:56.752 +08:00  INF  Bearer was not authenticated. Failure message: IDX10214: Audience validation failed. Audiences: 'http://localhost:51398'. Did not match: validationParameters.ValidAudience: 'your_audience' or validationParameters.ValidAudiences: 'null'.
+2024-03-11 21:31:56.756 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:31:56.760 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:31:56.760 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 66.7089ms
+2024-03-11 21:32:57.582 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:32:57.601 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 19.0468ms
+2024-03-11 21:32:57.611 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:32:57.611 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:32:57.612 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.7402ms
+2024-03-11 21:32:57.613 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.3533ms
+2024-03-11 21:32:57.613 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:32:57.755 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:32:57.760 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 5.3353ms
+2024-03-11 21:32:58.420 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:32:58.424 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.0079ms
+2024-03-11 21:32:58.431 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:32:58.432 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:32:58.432 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:32:58.436 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 1.3282ms
+2024-03-11 21:32:58.436 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:32:58.442 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 10.2712ms
+2024-03-11 21:32:58.449 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.3536ms
+2024-03-11 21:32:58.799 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:32:58.807 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.1361ms
+2024-03-11 21:33:07.684 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:33:07.684 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:33:07.687 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:33:07.689 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:33:07.689 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 2.7743ms
+2024-03-11 21:33:07.689 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:33:07.690 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 6.1045ms
+2024-03-11 21:33:18.617 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:33:18.619 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10214: Audience validation failed. Audiences: 'http://localhost:51398'. Did not match: validationParameters.ValidAudience: 'your_audience' or validationParameters.ValidAudiences: 'null'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:33:18.619 +08:00  INF  Bearer was not authenticated. Failure message: IDX10214: Audience validation failed. Audiences: 'http://localhost:51398'. Did not match: validationParameters.ValidAudience: 'your_audience' or validationParameters.ValidAudiences: 'null'.
+2024-03-11 21:33:18.620 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:33:18.620 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:33:18.620 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 3.136ms
+2024-03-11 21:33:55.229 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:33:55.239 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 9.6451ms
+2024-03-11 21:33:55.256 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:33:55.256 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:33:55.256 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:33:55.257 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.3668ms
+2024-03-11 21:33:55.259 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 3.2279ms
+2024-03-11 21:33:55.259 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:33:55.282 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.5071ms
+2024-03-11 21:33:55.602 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:33:55.610 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.5396ms
+2024-03-11 21:33:57.891 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:33:57.895 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 4.9294ms
+2024-03-11 21:33:57.919 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:33:57.919 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:33:57.919 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:33:57.922 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.5866ms
+2024-03-11 21:33:57.922 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:33:57.922 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 3.3326ms
+2024-03-11 21:33:57.935 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 16.2217ms
+2024-03-11 21:33:58.212 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:33:58.215 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.1347ms
+2024-03-11 21:34:07.525 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 21:34:07.525 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:34:07.527 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:34:07.530 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 21:34:07.530 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 2.4759ms
+2024-03-11 21:34:07.530 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:34:07.530 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 5.9935ms
+2024-03-11 21:34:15.604 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:34:15.606 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:34:15.606 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:34:15.606 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 1.7866ms
+2024-03-11 21:34:25.052 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:34:25.053 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10214: Audience validation failed. Audiences: 'https://localhost:7024'. Did not match: validationParameters.ValidAudience: 'your_audience' or validationParameters.ValidAudiences: 'null'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:34:25.054 +08:00  INF  Bearer was not authenticated. Failure message: IDX10214: Audience validation failed. Audiences: 'https://localhost:7024'. Did not match: validationParameters.ValidAudience: 'your_audience' or validationParameters.ValidAudiences: 'null'.
+2024-03-11 21:34:25.054 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:34:25.054 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:34:25.054 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 1.9539ms
+2024-03-11 21:54:24.575 +08:00  INF  User profile is available. Using 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-11 21:54:24.905 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 21:54:24.906 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 21:54:24.998 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 21:54:24.999 +08:00  INF  Hosting environment: Development
+2024-03-11 21:54:24.999 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 21:54:25.128 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:54:25.411 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 289.132ms
+2024-03-11 21:54:25.438 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:54:25.438 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:54:25.445 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 7.4018ms
+2024-03-11 21:54:25.525 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 87.4671ms
+2024-03-11 21:54:25.527 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:54:26.582 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:54:26.628 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.4902ms
+2024-03-11 21:54:26.684 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:54:26.823 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 139.3149ms
+2024-03-11 21:54:33.025 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 50
+2024-03-11 21:54:33.034 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:54:33.060 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:54:33.102 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 21:54:33.117 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 52.0386ms
+2024-03-11 21:54:33.117 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:54:33.117 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 401 null application/problem+json; charset=utf-8 91.6106ms
+2024-03-11 21:54:45.500 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 51
+2024-03-11 21:54:45.504 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:54:45.504 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:54:55.041 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 9537.0639ms
+2024-03-11 21:54:55.043 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:54:55.046 +08:00  ERR  An unhandled exception has occurred while executing the request.System.ArgumentOutOfRangeException: IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '152' bits. (Parameter 'keyBytes')
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.ValidateKeySize(Byte[] keyBytes, String algorithm, Int32 expectedNumberOfBytes)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateKeyedHashAlgorithm(Byte[] keyBytes, String algorithm)
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider.CreateKeyedHashAlgorithm()
+   at Microsoft.IdentityModel.Tokens.DisposableObjectPool`1.CreateInstance()
+   at Microsoft.IdentityModel.Tokens.DisposableObjectPool`1.Allocate()
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider.GetKeyedHashAlgorithm(Byte[] keyBytes, String algorithm)
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider.Sign(Byte[] input)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at LoginController.Login(User model) in C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API\Controllers\LoginController.cs:line 33
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+2024-03-11 21:54:55.071 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 500 null text/plain; charset=utf-8 9571.407ms
+2024-03-11 21:55:27.051 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 21:55:27.064 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 13.1451ms
+2024-03-11 21:55:27.083 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 21:55:27.083 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 21:55:27.084 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.596ms
+2024-03-11 21:55:27.085 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 2.5073ms
+2024-03-11 21:55:27.085 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 21:55:27.484 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 21:55:27.502 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.9786ms
+2024-03-11 21:55:27.552 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 21:55:27.561 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.5585ms
+2024-03-11 21:55:34.867 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 45
+2024-03-11 21:55:34.868 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:55:34.870 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:55:34.873 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 21:55:34.876 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 5.9124ms
+2024-03-11 21:55:34.877 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:55:34.877 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 401 null application/problem+json; charset=utf-8 9.7504ms
+2024-03-11 21:55:43.031 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 51
+2024-03-11 21:55:43.032 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:55:43.032 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 21:55:43.039 +08:00  INF  Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-03-11 21:55:43.040 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 7.4422ms
+2024-03-11 21:55:43.040 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 21:55:43.040 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 200 null application/json; charset=utf-8 8.588ms
+2024-03-11 21:55:56.290 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 21:55:56.322 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'ED3_UZ7kGhd69XfXS-atRscULCRvc6Mqb6X_izOUuFo'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 21:55:56.323 +08:00  INF  Bearer was not authenticated. Failure message: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'ED3_UZ7kGhd69XfXS-atRscULCRvc6Mqb6X_izOUuFo'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+2024-03-11 21:55:56.327 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 21:55:56.331 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 21:55:56.331 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 41.4457ms
+2024-03-11 21:56:44.126 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null null
+2024-03-11 21:56:44.127 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:56:44.127 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:56:44.130 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 3.831ms
+2024-03-11 21:57:35.637 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null 54
+2024-03-11 21:57:35.637 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:57:35.637 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:57:35.637 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 0.7619ms
+2024-03-11 21:57:51.470 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null 54
+2024-03-11 21:57:51.471 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:57:51.471 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:57:51.471 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 0.508ms
+2024-03-11 21:58:25.995 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null 54
+2024-03-11 21:58:25.995 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:58:25.995 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:58:25.996 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 0.7786ms
+2024-03-11 21:59:03.905 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null 54
+2024-03-11 21:59:03.905 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:59:03.905 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:59:03.905 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 0.723ms
+2024-03-11 21:59:06.722 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null 0
+2024-03-11 21:59:06.722 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:59:06.722 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 21:59:06.722 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 0.4348ms
+2024-03-11 22:05:30.723 +08:00  INF  Request starting HTTP/1.1 GET https://localhost:7024/api/Login - null 54
+2024-03-11 22:05:30.727 +08:00  INF  Executing endpoint '405 HTTP Method Not Supported'
+2024-03-11 22:05:30.727 +08:00  INF  Executed endpoint '405 HTTP Method Not Supported'
+2024-03-11 22:05:30.727 +08:00  INF  Request finished HTTP/1.1 GET https://localhost:7024/api/Login - 405 0 null 4.4425ms
+2024-03-11 23:17:32.378 +08:00  INF  User profile is available. Using 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-11 23:17:32.568 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 23:17:32.568 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 23:17:32.607 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 23:17:32.607 +08:00  INF  Hosting environment: Development
+2024-03-11 23:17:32.607 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 23:17:32.906 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:17:33.074 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 171.151ms
+2024-03-11 23:17:33.099 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:17:33.099 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:17:33.109 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 11.0725ms
+2024-03-11 23:17:33.173 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 74.1694ms
+2024-03-11 23:17:33.174 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:17:34.079 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:17:34.128 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.0077ms
+2024-03-11 23:17:34.163 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:17:34.268 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 105.5352ms
+2024-03-11 23:17:35.201 +08:00  INF  Request starting HTTP/1.1 POST https://localhost:7024/api/Login - null 54
+2024-03-11 23:17:35.204 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:17:35.221 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:17:35.245 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 23:17:35.260 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 35.0606ms
+2024-03-11 23:17:35.260 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:17:35.260 +08:00  INF  Request finished HTTP/1.1 POST https://localhost:7024/api/Login - 415 null application/problem+json; charset=utf-8 58.6488ms
+2024-03-11 23:17:47.304 +08:00  INF  Request starting HTTP/1.1 POST https://localhost:7024/api/Login - null 54
+2024-03-11 23:17:47.308 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:17:47.309 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:17:47.310 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 23:17:47.310 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 1.3039ms
+2024-03-11 23:17:47.310 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:17:47.310 +08:00  INF  Request finished HTTP/1.1 POST https://localhost:7024/api/Login - 415 null application/problem+json; charset=utf-8 5.929ms
+2024-03-11 23:18:15.762 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 51
+2024-03-11 23:18:15.763 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:18:15.763 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:18:15.801 +08:00  INF  Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-03-11 23:18:15.802 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 39.1554ms
+2024-03-11 23:18:15.802 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:18:15.803 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 200 null application/json; charset=utf-8 40.4352ms
+2024-03-11 23:18:57.355 +08:00  INF  Request starting HTTP/1.1 POST https://localhost:7024/api/Login - text/plain 54
+2024-03-11 23:18:57.356 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:18:57.356 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:18:57.356 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 23:18:57.356 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 0.5944ms
+2024-03-11 23:18:57.357 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:18:57.357 +08:00  INF  Request finished HTTP/1.1 POST https://localhost:7024/api/Login - 415 null application/problem+json; charset=utf-8 1.3173ms
+2024-03-11 23:19:09.338 +08:00  INF  Request starting HTTP/1.1 POST https://localhost:7024/api/Login - text/plain 54
+2024-03-11 23:19:09.338 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:19:09.338 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:19:09.339 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 23:19:09.339 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 0.3346ms
+2024-03-11 23:19:09.339 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:19:09.339 +08:00  INF  Request finished HTTP/1.1 POST https://localhost:7024/api/Login - 415 null application/problem+json; charset=utf-8 1.0433ms
+2024-03-11 23:20:54.652 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:20:54.673 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 20.9894ms
+2024-03-11 23:20:54.690 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:20:54.690 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:20:54.691 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.3429ms
+2024-03-11 23:20:54.691 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 1.3397ms
+2024-03-11 23:20:54.692 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:20:54.698 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:20:54.716 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.0568ms
+2024-03-11 23:20:55.724 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:20:55.730 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.6576ms
+2024-03-11 23:21:18.959 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 50
+2024-03-11 23:21:18.959 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:21:18.959 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:21:18.960 +08:00  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-03-11 23:21:18.961 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 1.1537ms
+2024-03-11 23:21:18.961 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:21:18.961 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 401 null application/problem+json; charset=utf-8 2.2308ms
+2024-03-11 23:21:34.037 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 51
+2024-03-11 23:21:34.037 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:21:34.037 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:21:34.038 +08:00  INF  Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-03-11 23:21:34.038 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 0.8947ms
+2024-03-11 23:21:34.039 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:21:34.039 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 200 null application/json; charset=utf-8 1.8034ms
+2024-03-11 23:22:00.296 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:22:00.316 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 20.4284ms
+2024-03-11 23:22:00.333 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:22:00.333 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:22:00.334 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.4087ms
+2024-03-11 23:22:00.334 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 1.1688ms
+2024-03-11 23:22:00.334 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:22:01.009 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:22:01.021 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.5198ms
+2024-03-11 23:22:01.115 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:22:01.118 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.4453ms
+2024-03-11 23:22:15.273 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:22:15.312 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 23:22:15.316 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 23:22:15.392 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 23:22:15.393 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 23:22:17.111 +08:00  INF  Received HTTP response headers after 1713.7896ms - 200
+2024-03-11 23:22:17.112 +08:00  INF  End processing HTTP request after 1720.9596ms - 200
+2024-03-11 23:22:17.133 +08:00  WRN  Success
+2024-03-11 23:22:17.160 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 23:22:17.169 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1852.18ms
+2024-03-11 23:22:17.169 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 23:22:17.170 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1897.0433ms
+2024-03-11 23:22:33.546 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:22:33.548 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 23:22:33.551 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 23:22:33.551 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 5.3377ms
+2024-03-11 23:22:55.440 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:22:55.446 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 5.5174ms
+2024-03-11 23:22:55.465 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:22:55.466 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:22:55.466 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 1.1418ms
+2024-03-11 23:22:55.467 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 0.6444ms
+2024-03-11 23:22:55.467 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:22:56.148 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:22:56.165 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.3725ms
+2024-03-11 23:22:56.263 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:22:56.267 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.6199ms
+2024-03-11 23:23:18.419 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 51
+2024-03-11 23:23:18.419 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:23:18.419 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:23:18.420 +08:00  INF  Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-03-11 23:23:18.420 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 0.6976ms
+2024-03-11 23:23:18.420 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:23:18.420 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 200 null application/json; charset=utf-8 1.721ms
+2024-03-11 23:23:32.204 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:23:32.207 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 23:23:32.207 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 23:23:32.208 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 23:23:32.208 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 23:23:33.055 +08:00  INF  Received HTTP response headers after 846.1386ms - 200
+2024-03-11 23:23:33.055 +08:00  INF  End processing HTTP request after 846.3762ms - 200
+2024-03-11 23:23:33.056 +08:00  WRN  Success
+2024-03-11 23:23:33.057 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 23:23:33.060 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 852.8907ms
+2024-03-11 23:23:33.060 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 23:23:33.060 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 856.4663ms
+2024-03-11 23:23:43.923 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:23:43.924 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 23:23:43.924 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 23:23:43.924 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 0.9687ms
+2024-03-11 23:23:54.836 +08:00  INF  User profile is available. Using 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-11 23:23:55.139 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 23:23:55.139 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 23:23:55.178 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 23:23:55.178 +08:00  INF  Hosting environment: Development
+2024-03-11 23:23:55.178 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 23:23:55.505 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:23:55.722 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 221.791ms
+2024-03-11 23:24:00.832 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:24:00.849 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 17.8895ms
+2024-03-11 23:24:00.864 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/swagger-ui-bundle.js - null null
+2024-03-11 23:24:00.865 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:24:00.864 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:24:00.864 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/swagger-ui.css - null null
+2024-03-11 23:24:00.865 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/swagger-ui-standalone-preset.js - null null
+2024-03-11 23:24:00.921 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 56.0044ms
+2024-03-11 23:24:01.039 +08:00  INF  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-03-11 23:24:01.039 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/swagger-ui.css - 200 143943 text/css 174.9348ms
+2024-03-11 23:24:01.041 +08:00  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-03-11 23:24:01.041 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 176.2181ms
+2024-03-11 23:24:01.063 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 199.3798ms
+2024-03-11 23:24:01.064 +08:00  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-03-11 23:24:01.065 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 200.5664ms
+2024-03-11 23:24:01.066 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:24:01.616 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:24:01.665 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.2893ms
+2024-03-11 23:24:01.759 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - null null
+2024-03-11 23:24:01.759 +08:00  INF  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-11 23:24:01.759 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - 200 628 image/png 0.9ms
+2024-03-11 23:24:01.778 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:24:01.788 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - null null
+2024-03-11 23:24:01.788 +08:00  INF  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-11 23:24:01.789 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - 200 628 image/png 1.0644ms
+2024-03-11 23:24:01.880 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 102.3229ms
+2024-03-11 23:24:07.765 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:24:07.773 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 23:24:07.776 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 23:24:07.776 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 11.7283ms
+2024-03-11 23:24:21.660 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login/login - application/json 51
+2024-03-11 23:24:21.667 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:24:21.688 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:24:21.739 +08:00  INF  Executing OkObjectResult, writing value of type 'System.String'.
+2024-03-11 23:24:21.743 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 51.8045ms
+2024-03-11 23:24:21.743 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:24:21.743 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login/login - 200 null text/plain; charset=utf-8 82.9527ms
+2024-03-11 23:24:31.825 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:24:31.855 +08:00  INF  Failed to validate the token.Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10214: Audience validation failed. Audiences: 'https://localhost:7024'. Did not match: validationParameters.ValidAudience: 'https://localhost:5001' or validationParameters.ValidAudiences: 'null'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+
+2024-03-11 23:24:31.865 +08:00  INF  Bearer was not authenticated. Failure message: IDX10214: Audience validation failed. Audiences: 'https://localhost:7024'. Did not match: validationParameters.ValidAudience: 'https://localhost:5001' or validationParameters.ValidAudiences: 'null'.
+2024-03-11 23:24:31.867 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 23:24:31.869 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 23:24:31.869 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 43.6894ms
+2024-03-11 23:24:52.908 +08:00  INF  User profile is available. Using 'C:\Users\HP GAMING\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-11 23:24:53.105 +08:00  INF  Now listening on: https://localhost:7024
+2024-03-11 23:24:53.105 +08:00  INF  Now listening on: http://localhost:5102
+2024-03-11 23:24:53.142 +08:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-11 23:24:53.142 +08:00  INF  Hosting environment: Development
+2024-03-11 23:24:53.142 +08:00  INF  Content root path: C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-API
+2024-03-11 23:24:53.756 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:24:53.928 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 179.3441ms
+2024-03-11 23:24:53.958 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:24:53.959 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:24:53.968 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 6.8626ms
+2024-03-11 23:24:54.041 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 82.3972ms
+2024-03-11 23:24:54.044 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:24:55.077 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:24:55.152 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.1672ms
+2024-03-11 23:24:55.349 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:24:55.451 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 101.8413ms
+2024-03-11 23:24:55.936 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/index.html - null null
+2024-03-11 23:24:55.946 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/index.html - 200 null text/html;charset=utf-8 10.6598ms
+2024-03-11 23:24:55.963 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/custom.js - null null
+2024-03-11 23:24:55.964 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/swagger-ui-bundle.js - null null
+2024-03-11 23:24:55.963 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/swagger-ui.css - null null
+2024-03-11 23:24:55.964 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/swagger-ui-standalone-preset.js - null null
+2024-03-11 23:24:55.964 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-11 23:24:55.971 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 6.571ms
+2024-03-11 23:24:55.972 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/custom.js - 404 0 null 8.5261ms
+2024-03-11 23:24:55.973 +08:00  INF  Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7024/swagger/custom.js, Response status code: 404
+2024-03-11 23:24:55.997 +08:00  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-03-11 23:24:55.997 +08:00  INF  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-03-11 23:24:55.998 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 34.1853ms
+2024-03-11 23:24:55.998 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/swagger-ui.css - 200 143943 text/css 34.3781ms
+2024-03-11 23:24:56.004 +08:00  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-03-11 23:24:56.004 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 40.7157ms
+2024-03-11 23:24:56.220 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/_vs/browserLink - null null
+2024-03-11 23:24:56.239 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.505ms
+2024-03-11 23:24:56.293 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - null null
+2024-03-11 23:24:56.293 +08:00  INF  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-11 23:24:56.293 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - 200 628 image/png 0.949ms
+2024-03-11 23:24:56.310 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - null null
+2024-03-11 23:24:56.317 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.5168ms
+2024-03-11 23:24:56.321 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - null null
+2024-03-11 23:24:56.322 +08:00  INF  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-11 23:24:56.322 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/swagger/favicon-32x32.png - 200 628 image/png 1.0335ms
+2024-03-11 23:25:04.772 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:25:04.781 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 23:25:04.784 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 23:25:04.784 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 12.306ms
+2024-03-11 23:25:23.513 +08:00  INF  Request starting HTTP/2 POST https://localhost:7024/api/Login - application/json 51
+2024-03-11 23:25:23.516 +08:00  INF  Executing endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:25:23.538 +08:00  INF  Route matched with {action = "Login", controller = "Login"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(FlexisourceIT_API.Helpers.User) on controller LoginController (FlexisourceIT-API).
+2024-03-11 23:25:23.589 +08:00  INF  Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-03-11 23:25:23.595 +08:00  INF  Executed action LoginController.Login (FlexisourceIT-API) in 52.4074ms
+2024-03-11 23:25:23.595 +08:00  INF  Executed endpoint 'LoginController.Login (FlexisourceIT-API)'
+2024-03-11 23:25:23.595 +08:00  INF  Request finished HTTP/2 POST https://localhost:7024/api/Login - 200 null application/json; charset=utf-8 82.3165ms
+2024-03-11 23:25:36.486 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:25:36.488 +08:00  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-11 23:25:36.488 +08:00  INF  AuthenticationScheme: Bearer was challenged.
+2024-03-11 23:25:36.488 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 401 0 null 2.7415ms
+2024-03-11 23:25:40.960 +08:00  INF  Request starting HTTP/2 GET https://localhost:7024/api/FloodMonitoring - null null
+2024-03-11 23:25:40.998 +08:00  INF  Executing endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 23:25:41.002 +08:00  INF  Route matched with {action = "GetFloodMonitoring", controller = "FloodMonitoring"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetFloodMonitoring() on controller FlexisourceIT_API.Controllers.FloodMonitoringController (FlexisourceIT-API).
+2024-03-11 23:25:41.079 +08:00  INF  Start processing HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 23:25:41.080 +08:00  INF  Sending HTTP request GET https://environment.data.gov.uk/flood-monitoring/id/stations?parameter=rainfall&_limit=50
+2024-03-11 23:25:42.513 +08:00  INF  Received HTTP response headers after 1430.3544ms - 200
+2024-03-11 23:25:42.513 +08:00  INF  End processing HTTP request after 1435.9132ms - 200
+2024-03-11 23:25:42.525 +08:00  WRN  Success
+2024-03-11 23:25:42.546 +08:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[FlexisourceIT_API.Model.FloodMonitoring, FlexisourceIT-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-11 23:25:42.552 +08:00  INF  Executed action FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API) in 1549.6438ms
+2024-03-11 23:25:42.552 +08:00  INF  Executed endpoint 'FlexisourceIT_API.Controllers.FloodMonitoringController.GetFloodMonitoring (FlexisourceIT-API)'
+2024-03-11 23:25:42.552 +08:00  INF  Request finished HTTP/2 GET https://localhost:7024/api/FloodMonitoring - 200 null application/json; charset=utf-8 1599.62ms

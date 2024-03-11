@@ -1,0 +1,15 @@
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\bin\Debug\net8.0\FlexisourceIT-ApplicationService.deps.json
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\bin\Debug\net8.0\FlexisourceIT-ApplicationService.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\bin\Debug\net8.0\FlexisourceIT-ApplicationService.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\bin\Debug\net8.0\FlexisourceIT-Domain.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\bin\Debug\net8.0\FlexisourceIT-Domain.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.csproj.AssemblyReference.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.AssemblyInfoInputs.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.AssemblyInfo.cs
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\Flexisou.221B828D.Up2Date
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\refint\FlexisourceIT-ApplicationService.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\FlexisourceIT-ApplicationService.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-ApplicationService\obj\Debug\net8.0\ref\FlexisourceIT-ApplicationService.dll

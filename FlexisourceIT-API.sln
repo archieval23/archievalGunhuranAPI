@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexisourceIT-API", "FlexisourceIT-API\FlexisourceIT-API.csproj", "{DD47CB07-24CD-4147-A214-0C89D18711B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexisourceIT-ApplicationService", "FlexisourceIT-ApplicationService\FlexisourceIT-ApplicationService.csproj", "{61DEDCEC-96C6-47B0-A7A7-C7D701869E5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexisourceIT-Common", "FlexisourceIT-Common\FlexisourceIT-Common.csproj", "{E107C4B4-C43B-449C-9831-F8DA65985DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexisourceIT-Domain", "FlexisourceIT-Domain\FlexisourceIT-Domain.csproj", "{789BD845-602C-4C1F-AB83-8A47670DE542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexisourceIT-Infrastracture", "FlexisourceIT-Infrastracture\FlexisourceIT-Infrastracture.csproj", "{6B7914FD-5BFD-44CA-85D3-7E2114934060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD47CB07-24CD-4147-A214-0C89D18711B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD47CB07-24CD-4147-A214-0C89D18711B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD47CB07-24CD-4147-A214-0C89D18711B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD47CB07-24CD-4147-A214-0C89D18711B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DEDCEC-96C6-47B0-A7A7-C7D701869E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DEDCEC-96C6-47B0-A7A7-C7D701869E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DEDCEC-96C6-47B0-A7A7-C7D701869E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DEDCEC-96C6-47B0-A7A7-C7D701869E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E107C4B4-C43B-449C-9831-F8DA65985DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E107C4B4-C43B-449C-9831-F8DA65985DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E107C4B4-C43B-449C-9831-F8DA65985DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E107C4B4-C43B-449C-9831-F8DA65985DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789BD845-602C-4C1F-AB83-8A47670DE542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789BD845-602C-4C1F-AB83-8A47670DE542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789BD845-602C-4C1F-AB83-8A47670DE542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789BD845-602C-4C1F-AB83-8A47670DE542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7914FD-5BFD-44CA-85D3-7E2114934060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7914FD-5BFD-44CA-85D3-7E2114934060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7914FD-5BFD-44CA-85D3-7E2114934060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7914FD-5BFD-44CA-85D3-7E2114934060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700EFC07-AABE-4415-8C91-06871EDB8612}
+	EndGlobalSection
+EndGlobal

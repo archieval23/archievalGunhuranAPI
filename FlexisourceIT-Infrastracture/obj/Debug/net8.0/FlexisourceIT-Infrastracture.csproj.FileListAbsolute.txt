@@ -1,0 +1,17 @@
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Infrastracture.deps.json
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Infrastracture.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Infrastracture.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Common.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Domain.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Common.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\bin\Debug\net8.0\FlexisourceIT-Domain.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.csproj.AssemblyReference.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.AssemblyInfoInputs.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.AssemblyInfo.cs
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\Flexisou.1A2A7F06.Up2Date
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\refint\FlexisourceIT-Infrastracture.dll
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\FlexisourceIT-Infrastracture.pdb
+C:\Users\HP GAMING\source\repos\CodingTest\FlexisourceIT-API\FlexisourceIT-Infrastracture\obj\Debug\net8.0\ref\FlexisourceIT-Infrastracture.dll

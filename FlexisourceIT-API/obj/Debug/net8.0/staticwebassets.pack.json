@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP GAMING\\source\\repos\\CodingTest\\FlexisourceIT-API\\FlexisourceIT-API\\wwwroot\\js\\customjs.js",
+      "PackagePath": "staticwebassets\\js\\customjs.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FlexisourceIT-API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FlexisourceIT-API.props",
+      "PackagePath": "build\\FlexisourceIT-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FlexisourceIT-API.props",
+      "PackagePath": "buildMultiTargeting\\FlexisourceIT-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FlexisourceIT-API.props",
+      "PackagePath": "buildTransitive\\FlexisourceIT-API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
